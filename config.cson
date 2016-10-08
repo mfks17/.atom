@@ -1,0 +1,41 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "9637d82b-6e19-4b7e-a2a3-8152847f9514"
+  "atom-terminal": {}
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+        ".hgrc"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "tree-view"
+      "language-gfm"
+    ]
+    themes: [
+      "dracula-ui"
+      "dracula-theme"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "3d6d50f8-ab76-06fa-8a98-1f3bb37bc971"
+  linter:
+    errorPanelHeight: 478
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+  nuclide:
+    "nuclide-home":
+      showHome: false
+  welcome:
+    showOnStartup: false
