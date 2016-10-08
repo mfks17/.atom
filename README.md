@@ -36,5 +36,5 @@ Token>
 - When you wanna install atom packages with star.
 
 ```
-apm stars --install
+$ apm stars --install
 ```
